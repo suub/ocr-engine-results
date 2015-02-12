@@ -1,4 +1,4 @@
-483
+!!483
 Es gibt nichts kleines, alles mußt du deuten,
 Und wenn du kannst, so hasche selbst den Vogel
 Aus seinem Meer herab und frag' ihn aus!
@@ -14,7 +14,7 @@ Ein wahres Lächeln oder falsches zeigt;
 Und nimm es an und frage nicht nach Grund,
 Nach Recht und Ursach, bis die Zeit dir fällt;
 Und wolle bitten, aber lern' es auch,
-In die Versagung freudig einzustimmen! —
+In die Versagung freudig einzustimmen! 
 Du willst mich, Herr, in deiner Obhut wissen?
 Und es beliebt dir nicht, mich Hülfelos,
 Unstät und schweifend in dem Land zu sehn?

@@ -1,4 +1,4 @@
-184
+!!184
 In weiten Häusern gibt es stille Zellen,
 Und in dem Dome dient so mancher Greis
 Mit Lesen, Beten, Lichtern und Gesang;
@@ -24,7 +24,7 @@ Ich wäre nutzlos; denn mich hat ein Schmerz,
 Langsamer Krampf des Daseins abgethan.
 Ich kann auch die Gefäße nicht mehr tragen;
 Es bebte seltsam ungestüm die Glocke,
-Wenn zitternd meine Hand die Stränge zöge. —
+Wenn zitternd meine Hand die Stränge zöge. 
 Das Handwerk ward mir untersagt, ich legte
 Mein Werkzeug weg, das Vorrecht meines Standes.
 Ich war zu fröhlich und verlor die Jahre,

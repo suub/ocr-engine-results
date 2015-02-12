@@ -1,4 +1,4 @@
-t80
+!!t80
 Hinweg ! und tastet, wenn ihr müßt, den Leib,
 Doch nicht die Ehre an, die ihn bedeckt!
 (zu Heinrich vor den Thron tretend.)
@@ -24,7 +24,7 @@ Ist es die letzte Freiheit, dieses Gut,
 Das letzte, zu verschenken? Nun, wohlan!
 Du zeitiger Erbe des Nachlebenden,
 Ist dies der Anfang deiner Reichsordnung,
-Sprich, fünfter Heinrich, mach' ich's recht? —
+Sprich, fünfter Heinrich, mach' ich's recht? 
 Heinrich.
 Ich fordere es nicht aus mir; doch sprach das Reich,
 Der Fürsten Wille und des Kirchenhaupts
