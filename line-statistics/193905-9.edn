@@ -1,0 +1,1 @@
+{:all-words ("Shakespeare" "Goethe" "Kleist" "u" "a" "Bei" "Waguer" "kommen" "die" "Liebenden" "aus" "dem" "reiu"), :not-in-dict ("u" "a" "Waguer" "reiu"), :error-rate 30.76923076923077}
