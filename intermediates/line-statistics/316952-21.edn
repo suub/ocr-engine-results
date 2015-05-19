@@ -1,0 +1,1 @@
+{:all-words ("i" "j"), :not-in-dict ("i" "j"), :error-rate 100.0}

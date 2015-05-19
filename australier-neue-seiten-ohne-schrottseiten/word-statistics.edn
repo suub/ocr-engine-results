@@ -1,1 +1,0 @@
-{"stichwortsuche" {:error-rate 4.001380636572077, :word-count 40561, :error-number 1623}, "case-sensitive-stichwortsuche" {:error-rate 4.018638593723034, :word-count 40561, :error-number 1630}, "phrasensuche" {:error-rate 4.001380636572077, :word-count 40561, :error-number 1623}, "alle Fehler" {:error-rate 4.018638593723034, :word-count 40561, :error-number 1630}}
